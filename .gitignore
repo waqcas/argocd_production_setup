@@ -1,0 +1,7 @@
+eks_terraform/.terraform.lock.hcl
+eks_terraform/terraform.tfstate
+eks_terraform/terraform.tfstate.backup
+eks_terraform/.terraform.tfstate.lock.info
+eks_terraform/.terraform
+flask_application/.venv
+flask_application/__pycache__
