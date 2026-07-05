@@ -1,4 +1,4 @@
-.venv
+script/.venv
 eks_terraform/.terraform.lock.hcl
 eks_terraform/terraform.tfstate
 eks_terraform/terraform.tfstate.backup
